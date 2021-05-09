@@ -1080,11 +1080,11 @@ top: 110%;
 }
 
 .block402{
-	width: 100%;
+	width: 99%;
 	height: 1px;
 	background-color: white;
 	position: absolute;
-	top: 250px;
+	top: 200px;
 }
 .block09{
  width: 1000px;
@@ -1092,11 +1092,11 @@ top: 110%;
 
 .block_huj1{
 	border: none;
-	height:180px;
-	width:350px;
+	height:200px;
+	width:380px;
 	position: absolute;
-	top: 63%;
-	left: 7%;
+	top: 57%;
+	left: 4%;
     
 
 }
@@ -1107,7 +1107,7 @@ top: 110%;
 	width:500px;
 	position: absolute;
 	top: 190%;
-	left: 70%;
+	left: 73%;
 	transform: translate(-50%,-50%);
 	background: rgba(0,0,0,.7);
 	border-radius: 10px;
@@ -1120,7 +1120,7 @@ top: 110%;
 	width:500px;
 	position: absolute;
 	top: 190%;
-	left: 70%;
+	left: 73%;
 	transform: translate(-50%,-50%);
 	background: rgba(0,0,0,.9);
 	border-radius: 30px;
@@ -1138,8 +1138,8 @@ top: 110%;
 	width:500px;
 	position: absolute;
 	top: 300%;
-	left: 70%;
-	transform: translate(-55%,-50%);
+	left: 73%;
+	transform: translate(-50%,-50%);
 	background: rgba(0,0,0,.7);
 	border-radius:10px;
 }
@@ -1151,7 +1151,7 @@ top: 110%;
 	width:500px;
 	position: absolute;
 	top: 300%;
-	left: 70%;
+	left: 73%;
 	transform: translate(-50%,-50%);
 	background: rgba(0,0,0,.9);
 	border-radius: 30px;
@@ -1746,7 +1746,7 @@ position: absolute;
 		font-size: 30px;
 		position:absolute;	
 		left: 20%;
-		top:54%;
+		top:46%;
 		color:white;
 	}
 
